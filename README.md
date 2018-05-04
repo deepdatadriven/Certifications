@@ -19,3 +19,6 @@ https://www.coursera.org/account/accomplishments/verify/4TSF24MMLGCY</br>
 </br>
 An Introduction to Interactive Programming in Python (Part 1)</br>
 https://www.coursera.org/account/accomplishments/verify/LCGVAKPXL225</br>
+</br>
+Regression Modeling in Practice：</br>
+https://www.coursera.org/account/accomplishments/certificate/5YKMV9PNZVBU</br>
