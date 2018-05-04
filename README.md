@@ -22,3 +22,5 @@ https://www.coursera.org/account/accomplishments/verify/LCGVAKPXL225</br>
 </br>
 Regression Modeling in Practice：</br>
 https://www.coursera.org/account/accomplishments/certificate/5YKMV9PNZVBU</br>
+
+** Coursera-Certifications-All.pdf contains all the certifications **
